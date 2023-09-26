@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHAN879
 - 👀 I’m interested in Flutter/Dart
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Flutter projects
+- 🌱 I’m intrested in React Native
+- 💞️ I’m looking to collaborate on Flutter and React native projects
 - 📫 How to reach me ...
 
 <!---
